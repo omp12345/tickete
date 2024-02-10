@@ -1,0 +1,111 @@
+.total_pay{
+    width:800px;
+height: 150px;
+
+
+margin-top: 300px;
+margin-left: 12%;
+/* margin-right: 200px; */
+
+}
+.heading{
+    width:792px;
+height:48px;
+padding: 0px, 0px, 16px, 0px;
+
+display: flex;
+align-items: center;
+
+
+}
+.head_content{
+    width: 792px;
+height: 32px;
+
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0.006em;
+text-align: left;
+color: rgba(28, 32, 36, 1);
+
+
+
+}
+.section{
+    width: 792px;
+height: 102px;
+border-radius: 16px;
+border: 1px;
+color: rgba(255, 255, 255, 1);
+
+}
+.container{
+    display: flex;
+  
+    width:792px;
+    height: 102px;
+    padding: 16px, 16px, 16px, 20px;
+    gap: 12px;
+    border: 1px solid gray;
+    border-radius: 16px ;
+
+}
+.icon{
+    width: 16px;
+height: 22px;
+margin-top: 30px;
+padding: 6px, 0px, 0px, 0px
+
+}.content1{
+   
+    width: 728px;
+    height: 70px;
+    gap: 10px;
+   
+    
+
+}
+.mini_content{
+    width: 728px;
+    height: 70px;
+    padding: 4px, 0px, 2px, 0px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.AED_message{
+    width: 728px;
+height: 10px;
+
+
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(28, 32, 36, 1);
+
+
+}
+.message{
+     /* width: 728px;
+height: 40px;
+margin-bottom: 90px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left; */
+
+gap: 30px;
+
+ color: rgba(96, 100, 108, 1); 
+
+
+}
